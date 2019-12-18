@@ -34,8 +34,6 @@ html_show_sourcelink = False
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-'sphinx_copybutton',
-'sphinx_rtd_theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -63,24 +61,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 ##html_theme = "nature"
 
 # https://github.com/readthedocs/sphinx_rtd_theme
-import sphinx_rtd_theme
-html_theme = "sphinx_rtd_theme"
+##import sphinx_rtd_theme
+##html_theme = "sphinx_rtd_theme"
 
-# Este é o estilo como a documentação do Python 3
-########import sphinx_py3doc_enhanced_theme
-########html_theme = "sphinx_py3doc_enhanced_theme"
-########html_theme_path = [sphinx_py3doc_enhanced_theme.get_html_theme_path()]
-########
-########html_theme_options = {
-########    'githuburl': 'https://github.com/ionelmc/sphinx-py3doc-enhanced-theme/',
-########    'bodyfont': '"Lucida Grande",Arial,sans-serif',
-########    'headfont': '"Lucida Grande",Arial,sans-serif',
-########    'codefont': 'monospace,sans-serif',
-########    'linkcolor': '#0072AA',
-########    'visitedlinkcolor': '#6363bb',
-########    'extrastyling': False,
-########}
-########pygments_style = 'friendly'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
