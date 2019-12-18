@@ -22,7 +22,7 @@ author = 'ALF/GRU'
 
 # -- Configurações Abe -----------------------------------------------------
 
-source_encoding = 'iso-8859-15'
+##source_encoding = 'iso-8859-15'
 html_show_sourcelink = False
 
 
