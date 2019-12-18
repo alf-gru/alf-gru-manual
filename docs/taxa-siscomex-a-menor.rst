@@ -8,5 +8,7 @@ As empresas amparadas por medida judicial que lhes autorize o recolhimento da ta
 
 #. Passo 2
 
+#. Passo 3
+
 Última edição: |today|
 
