@@ -8,6 +8,8 @@ Alfândega no Aeroporto de Guarulhos/São Paulo
 Orientações
 -----------
 * :ref:`acoes-basicas`
+ * :ref:`contactar-a-alfandega`
+ * :ref:`chegar-a-alfandega`
 * :ref:`empresas-aereas`
 * :ref:`esatas-handling`
 * :ref:`esatas-mantra`
