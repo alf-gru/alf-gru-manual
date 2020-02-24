@@ -7,9 +7,7 @@ Alfândega de Guarulhos - Guia de Referência
 O que há de novo
 ----------------
 
-.. code-block
-
-
+.. code-block::
 
    *14/01/2020** TRÂNSITO ADUANEIRO: Início da recepção documental por anexação digital de documentos.
 
