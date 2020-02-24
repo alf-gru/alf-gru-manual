@@ -6,23 +6,18 @@ Sites oficiais
 
 Receita Federal
 ~~~~~~~~~~~~~~~
-
-- `Site da Receita Federal`_
+ | `Site da Receita Federal`_
 
  .. _Site da Receita Federal: http://rfb.gov.br/
+ | `Legislação`_
 
-  * `Legislação`_
+ .. _Legislação: http://normas.receita.fazenda.gov.br/
+ | `Manuais Aduaneiros`_
 
-  .. _Legislação: http://normas.receita.fazenda.gov.br/
+ .. _Manuais Aduaneiros: http://receita.economia.gov.br/orientacao/aduaneira/manuais
+ | `Portal Único Siscomex`_
 
-  * `Manuais Aduaneiros`_
+ .. _Portal Único Siscomex: https://portalunico.siscomex.gov.br/portal/
+ | `Fale Conosco`_
 
-  .. _Manuais Aduaneiros: http://receita.economia.gov.br/orientacao/aduaneira/manuais
-
-  * `Portal Único Siscomex`_
-
-  .. _Portal Único Siscomex: https://portalunico.siscomex.gov.br/portal/
-
-  * `Fale Conosco`_
-
-  .. _Fale Conosco: http://receita.economia.gov.br/contato/fale-conosco
+ .. _Fale Conosco: http://receita.economia.gov.br/contato/fale-conosco
