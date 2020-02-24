@@ -1,30 +1,69 @@
-.. Manuais documentation master file, created by
-   sphinx-quickstart on Wed Dec 18 12:10:11 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+===========================================
+AlfÃ¢ndega de Guarulhos - Guia de ReferÃªncia
+===========================================
 
-Alfândega no Aeroporto de Guarulhos/São Paulo
-=============================================
-Orientações
------------
-* :ref:`acoes-basicas`
+.. important:: Ãšltima atualizaÃ§Ã£o em 31/12/2019.
 
-   * :ref:`contactar-a-alfandega`
-   * :ref:`chegar-a-alfandega`
-
-* :ref:`empresas-aereas`
-* :ref:`esatas-handling`
-* :ref:`esatas-mantra`
-* :ref:`transportadores-rodoviarios`
-* :ref:`despachantes`
-* :ref:`importadores`
-* :ref:`exportadores`
-Índice Geral
------------
-* :ref:`genindex`
-
-Última edição: |today|
+CONTEÃšDO
+--------
 
 .. toctree::
+
    :maxdepth: 2
-   :caption: Contents:
+
+
+
+   sites-oficiais
+
+   alfandega
+
+   sobre-o-site
+
+InformaÃ§Ãµes por segmento
+------------------------
+
+.. toctree::
+
+   :maxdepth: 1
+
+
+
+   seg-empresas-aereas
+
+   seg-transportadores-rodoviarios
+
+   seg-transportadores-valores
+
+   seg-despachantes-comissarias
+
+   seg-exportadores
+
+   seg-importadores
+
+   seg-consulados
+
+   seg-viajantes
+
+InformaÃ§Ãµes por serviÃ§o
+-----------------------
+
+.. toctree::
+
+   :maxdepth: 1
+
+
+
+DÃºvidas mais freqÃ¼entes
+-----------------------
+
+.. toctree::
+
+    :titlesonly:
+
+
+
+    chegar-na-alfandega
+
+    contatar-alfandega
+
+
