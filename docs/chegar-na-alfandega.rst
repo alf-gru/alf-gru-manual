@@ -22,7 +22,7 @@ De carro
 
 .. caution:: A Rod. Hélio Smidt, que liga as Rod. Dutra e Ayrton Senna ao aeroporto, possui radares de velocidade de 70 km/h.
 
-.. Hint:: Você pode programar as coordenadas GPS para chegar ao estacionamento mais próximo dentro do aeroporto de Guarulhos. Insira no Waze as coordenadas da tabela abaixo (não se esqueça do sinal de menos (-) e copie exatamente as vírgulas e os pontos como indicado).
+.. Hint:: Você pode programar as coordenadas GPS para chegar ao estacionamento mais próximo dentro do aeroporto de Guarulhos. Insira no Waze as coordenadas da tabela abaixo (não se esqueça do sinal de menos (-) e copie exatamente a vírgula e os pontos como indicado).
 
 .. image:: _images/waze-coord.jpg
    :align: center
