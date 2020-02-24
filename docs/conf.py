@@ -22,6 +22,10 @@ copyright = '2020, nihil'
 author = 'nihil'
 
 
+# -- Abe ---------------------------------------------------------------------
+master_doc = 'index'
+
+
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
