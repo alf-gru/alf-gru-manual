@@ -1,6 +1,6 @@
-===========================================
-Alfândega de Guarulhos - Guia de Referência
-===========================================
+==================================================
+Alfândega de Guarulhos - Guia Rápido de Referência
+==================================================
 
 O que há de novo
 ----------------
@@ -18,43 +18,7 @@ CONTEÚDO
 
 
 
-   sites-oficiais
-
-   alfandega
-
-   sobre-o-site
-
-Informações por segmento
-------------------------
-
-.. toctree::
-
-   :maxdepth: 1
-
-
-
-   seg-empresas-aereas
-
-   seg-transportadores-rodoviarios
-
-   seg-transportadores-valores
-
-   seg-despachantes-comissarias
-
-   seg-exportadores
-
-   seg-importadores
-
-   seg-consulados
-
-   seg-viajantes
-
-Informações por serviço
------------------------
-
-.. toctree::
-
-   :maxdepth: 1
+   operacoes-patio   
 
 
 
@@ -67,8 +31,6 @@ Dúvidas mais freqüentes
 
 
 
-    chegar-na-alfandega
-
-    contatar-alfandega
+    
 
 
