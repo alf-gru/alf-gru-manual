@@ -2,8 +2,6 @@
 Alfândega de Guarulhos - Guia de Referência
 ===========================================
 
-.. important:: Última atualização em 31/12/2019.
-
 O que há de novo
 ----------------
 
