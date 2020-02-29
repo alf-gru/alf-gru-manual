@@ -18,47 +18,7 @@ CONTEÚDO
 
 
 
-<<<<<<< HEAD
    operacoes-patio   
-=======
-   alfandega
-
-   sites-oficiais
-
-   sobre-o-site
-
-Informações por segmento
-------------------------
-
-.. toctree::
-
-   :maxdepth: 1
-
-
-
-   seg-empresas-aereas
-
-   seg-transportadores-rodoviarios
-
-   seg-transportadores-valores
-
-   seg-despachantes-comissarias
-
-   seg-exportadores
-
-   seg-importadores
-
-   seg-consulados
-
-   seg-viajantes
-
-Informações por serviço
------------------------
-
-.. toctree::
-
-   :maxdepth: 1
->>>>>>> cc5e0907695b1e53f7a3b638d9cd3e5f5f2f68c4
 
 
 
